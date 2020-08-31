@@ -20,4 +20,4 @@ define('FILTER_DIRETORIO_ABSOLUTO_DO_PLUGIN',plugin_dir_path(__FILE__));
 
 require_once(FILTER_DIRETORIO_ABSOLUTO_DO_PLUGIN.'/includes/plugin-add-metadado-functions.php');
 require_once(FILTER_DIRETORIO_ABSOLUTO_DO_PLUGIN.'/includes/plugin-add-filter-functions-searchbar.php');
-require_once(FILTER_DIRETORIO_ABSOLUTO_DO_PLUGIN.'/includes/plugin-add-metabox.php');
+require_once(FILTER_DIRETORIO_ABSOLUTO_DO_PLUGIN.'/includes/plugin-add-custom-field.php');
